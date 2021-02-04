@@ -1,0 +1,1 @@
+docker build -t jshx/tool-box:0.4 .
